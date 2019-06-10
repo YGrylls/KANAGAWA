@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "center_float",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5.85,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 5.85,
+          "value": 50
+        }
+      ]
+    }
+  },
+  "events": []
+}

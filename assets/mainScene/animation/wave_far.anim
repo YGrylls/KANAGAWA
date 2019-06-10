@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wave_far",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.7333333333333334,
+  "sample": 60,
+  "speed": 0.25,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -400
+        },
+        {
+          "frame": 3.7333333333333334,
+          "value": -550
+        }
+      ]
+    }
+  },
+  "events": []
+}
